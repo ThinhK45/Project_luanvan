@@ -1,0 +1,23 @@
+exports.cleanUser = (user) => {
+    if (user.forgot_password_code) user.forgot_password_code = undefined;
+    user.salt = undefined;
+    user.hashed_password = undefined;
+
+    user.addresses = undefined;
+    user.e_wallet = undefined;
+    // user.cart = undefined;
+
+    if (user.email) user.email = user.email.slice(0, 6) + '******';
+    if (user.phone) user.phone = '*******' + user.phone.slice(-3);
+    if (user.id_card) user.id_card = user.id_card.slice(0, 3) + '******';
+
+    return user;
+};
+
+exports.cleanUserLess = (user) => {
+    if (user.forgot_password_code) user.forgot_password_code = undefined;
+    user.salt = undefined;
+    user.hashed_password = undefined;
+
+    return user;
+};
