@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6571ae4b186f1792566a29ea"
+  },
+  "name": "Màu sắc",
+  "categoryIds": [
+    {
+      "$oid": "6571ae3a186f1792566a29d3"
+    },
+    {
+      "$oid": "6571ca10fed315b3d7ba8708"
+    },
+    {
+      "$oid": "6571ca04fed315b3d7ba86fd"
+    },
+    {
+      "$oid": "6571c98dfed315b3d7ba86b1"
+    },
+    {
+      "$oid": "6571c96cfed315b3d7ba869f"
+    },
+    {
+      "$oid": "6571c97afed315b3d7ba86a8"
+    },
+    {
+      "$oid": "6571c9c8fed315b3d7ba86da"
+    },
+    {
+      "$oid": "6571c9b6fed315b3d7ba86d1"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:36:43.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:39:23.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571ae6e186f1792566a29ef"
+  },
+  "name": "Kích cỡ",
+  "categoryIds": [
+    {
+      "$oid": "6571ae3a186f1792566a29d3"
+    },
+    {
+      "$oid": "6571ca10fed315b3d7ba8708"
+    },
+    {
+      "$oid": "6571ca04fed315b3d7ba86fd"
+    },
+    {
+      "$oid": "6571c9c8fed315b3d7ba86da"
+    },
+    {
+      "$oid": "6571c9b6fed315b3d7ba86d1"
+    },
+    {
+      "$oid": "6571c96cfed315b3d7ba869f"
+    },
+    {
+      "$oid": "6571c98dfed315b3d7ba86b1"
+    },
+    {
+      "$oid": "6571c97afed315b3d7ba86a8"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:37:18.852Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:38:52.478Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "6571adc2186f1792566a2980"
+  },
+  "firstname": "Quản",
+  "lastname": "trị viên",
+  "email": "thinhb1910147@gmail.com",
+  "salt": "c067fd01-6a59-4371-84c6-0f542e5c9ef4",
+  "hashed_password": "98d29d2313b78d17ddee60926c98001c8e5945cf",
+  "role": "admin",
+  "addresses": [],
+  "avatar": "/uploads/default.png",
+  "cover": "/uploads/default.png",
+  "e_wallet": {
+    "$numberDecimal": "0"
+  },
+  "point": 0,
+  "createdAt": {
+    "$date": "2023-12-07T11:34:26.930Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:34:26.930Z"
+  },
+  "slug": "quan-tri-vien",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571aeeb186f1792566a2a3b"
+  },
+  "firstname": "Nguyễn",
+  "lastname": "Nam",
+  "email": "cuahang1@gmail.com",
+  "salt": "a0aaf1cc-ec8f-45de-987b-b2c7933cf547",
+  "hashed_password": "d148559772d00b0fd7df8e2eed00b3e4eae0de03",
+  "role": "user",
+  "addresses": [
+    "165, Xuân Khánh, Ninh Kiều, Cần Thơ, Việt Nam"
+  ],
+  "avatar": "/uploads/default.png",
+  "cover": "/uploads/default.png",
+  "e_wallet": {
+    "$numberDecimal": "0"
+  },
+  "point": 0,
+  "createdAt": {
+    "$date": "2023-12-07T11:39:23.204Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T12:13:21.612Z"
+  },
+  "slug": "nguyen-nam",
+  "__v": 0,
+  "id_card": "123456789",
+  "phone": "0333091899"
+},
+{
+  "_id": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "firstname": "Trần",
+  "lastname": "Hùng",
+  "email": "khachhang1@gmail.com",
+  "salt": "675a52c4-8489-4d6f-9c86-3b99f6d1e9ae",
+  "hashed_password": "b489457990b1ec379fc293205167ca4e9ba49c9b",
+  "role": "user",
+  "addresses": [
+    "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam"
+  ],
+  "avatar": "/uploads/default.png",
+  "cover": "/uploads/default.png",
+  "e_wallet": {
+    "$numberDecimal": "401798.04"
+  },
+  "point": 15,
+  "createdAt": {
+    "$date": "2023-12-07T11:41:43.190Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:08:07.154Z"
+  },
+  "slug": "tran-hung",
+  "__v": 0,
+  "phone": "0333091833",
+  "id_card": "012345678"
+},
+{
+  "_id": {
+    "$oid": "6571ba53186f1792566a2d30"
+  },
+  "firstname": "Nguyễn",
+  "lastname": "Minh",
+  "email": "khachhang2@gmail.com",
+  "salt": "82b339ba-e916-4807-9828-56564a2cfbf8",
+  "hashed_password": "bb157ea020c6a90d184a576a907d29b3c336fa27",
+  "role": "user",
+  "addresses": [
+    "Hẻm 51, Xuân Khánh, Ninh Kiều, Cần Thơ, Việt Nam"
+  ],
+  "avatar": "/uploads/default.png",
+  "cover": "/uploads/default.png",
+  "e_wallet": {
+    "$numberDecimal": "0"
+  },
+  "point": 1,
+  "createdAt": {
+    "$date": "2023-12-07T12:28:03.527Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:36:55.611Z"
+  },
+  "slug": "nguyen-minh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571ca67fed315b3d7ba875d"
+  },
+  "firstname": "Nhân",
+  "lastname": "viên 1",
+  "email": "nhanvien1@gmail.com",
+  "salt": "e7601276-e807-4be3-8ad7-6166d6c2de57",
+  "hashed_password": "783665fd93aa14903b0bf20b4a3f6a1fbe987edf",
+  "role": "user",
+  "addresses": [],
+  "avatar": "/uploads/default.png",
+  "cover": "/uploads/default.png",
+  "e_wallet": {
+    "$numberDecimal": "0"
+  },
+  "point": 0,
+  "createdAt": {
+    "$date": "2023-12-07T13:36:39.118Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:36:39.118Z"
+  },
+  "slug": "nhan-vien-1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571ca71fed315b3d7ba8760"
+  },
+  "firstname": "Nhân",
+  "lastname": "viên 2",
+  "email": "nhanvien2@gmail.com",
+  "salt": "9ce828c3-9426-42d9-be23-cc28cd73aec3",
+  "hashed_password": "a5074885ff4cd5cbfea069ff314d383fa9fbf7d4",
+  "role": "user",
+  "addresses": [],
+  "avatar": "/uploads/default.png",
+  "cover": "/uploads/default.png",
+  "e_wallet": {
+    "$numberDecimal": "0"
+  },
+  "point": 0,
+  "createdAt": {
+    "$date": "2023-12-07T13:36:49.440Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:36:49.440Z"
+  },
+  "slug": "nhan-vien-2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65756206a6bb1188ebe69ddb"
+  },
+  "firstname": "Nguyễn",
+  "lastname": "A",
+  "email": "cuahang2@gmail.com",
+  "salt": "10b36c2e-f5ac-415c-8035-40fab37765ed",
+  "hashed_password": "3f6b8f14fa39672da1ec587b2f77970b04203006",
+  "role": "user",
+  "addresses": [],
+  "avatar": "/uploads/default.png",
+  "cover": "/uploads/default.png",
+  "e_wallet": {
+    "$numberDecimal": "0"
+  },
+  "point": 0,
+  "createdAt": {
+    "$date": "2023-12-10T07:00:22.459Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:00:22.459Z"
+  },
+  "slug": "nguyen-a",
+  "__v": 0
+}]

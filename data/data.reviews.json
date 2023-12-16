@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "657563f3a6bb1188ebe6a16c"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "productId": {
+    "$oid": "6571bb15186f1792566a2e98"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "orderId": {
+    "$oid": "65756375a6bb1188ebe6a090"
+  },
+  "content": "tốt",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2023-12-10T07:08:35.153Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:08:35.153Z"
+  },
+  "__v": 0
+}]

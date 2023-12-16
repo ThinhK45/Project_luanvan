@@ -1,0 +1,399 @@
+[{
+  "_id": {
+    "$oid": "6571bc53186f1792566a321f"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "332500"
+  },
+  "createdAt": {
+    "$date": "2023-12-07T12:36:35.005Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:36:35.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bc67186f1792566a327a"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "342000"
+  },
+  "createdAt": {
+    "$date": "2023-12-07T12:36:55.339Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:36:55.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bc73186f1792566a32ab"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "342000"
+  },
+  "createdAt": {
+    "$date": "2023-12-07T12:37:07.032Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:37:07.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bc81186f1792566a32dc"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "342000"
+  },
+  "createdAt": {
+    "$date": "2023-12-07T12:37:21.152Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:37:21.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bc9f186f1792566a3337"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "332500"
+  },
+  "createdAt": {
+    "$date": "2023-12-07T12:37:51.444Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:37:51.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573245fc70ce12cc253db9b"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "349200"
+  },
+  "createdAt": {
+    "$date": "2023-12-08T14:12:47.917Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-08T14:12:47.917Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573c6afdd68df6dc6554182"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "382200"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T01:45:19.933Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T01:45:19.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573c936dd68df6dc65542c0"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "349200"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T01:56:06.898Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T01:56:06.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573f0efdd68df6dc6554a0e"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "407400"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T04:45:35.629Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T04:45:35.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573fefddd68df6dc6555151"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "315250"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T05:45:33.628Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T05:45:33.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6574365199bb0a9ebc6afaca"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "347900"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T09:41:37.941Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T09:41:37.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657439d399bb0a9ebc6afe7c"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "349200"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T09:56:35.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T09:56:35.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65743acb99bb0a9ebc6b010d"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "339500"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T10:00:43.162Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:00:43.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65743d5599bb0a9ebc6b052a"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "310400"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T10:11:33.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:11:33.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6574422e99bb0a9ebc6b088d"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "347900"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T10:32:14.779Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:32:14.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6574454399bb0a9ebc6b08d6"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "isUp": false,
+  "amount": {
+    "$numberDecimal": "1078000"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T10:45:23.215Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:45:23.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657446d499bb0a9ebc6b0a8e"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "401798.04"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T10:52:04.520Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:52:04.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6574477899bb0a9ebc6b0c85"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "368598.06"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T10:54:48.890Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:54:48.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65750f44a6bb1188ebe682d6"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "698400"
+  },
+  "createdAt": {
+    "$date": "2023-12-10T01:07:16.960Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T01:07:16.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6575282ea6bb1188ebe68f96"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "368598.06"
+  },
+  "createdAt": {
+    "$date": "2023-12-10T02:53:34.101Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T02:53:34.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657563d6a6bb1188ebe6a144"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "isUp": true,
+  "amount": {
+    "$numberDecimal": "349200"
+  },
+  "createdAt": {
+    "$date": "2023-12-10T07:08:06.763Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:08:06.763Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "name": "Cửa hàng 1",
+  "bio": "Cửa hàng 1",
+  "ownerId": {
+    "$oid": "6571aeeb186f1792566a2a3b"
+  },
+  "staffIds": [
+    {
+      "$oid": "6571ca67fed315b3d7ba875d"
+    }
+  ],
+  "isActive": false,
+  "isOpen": true,
+  "avatar": "/uploads/1701949200145cua-hang-1icon-256x256.png",
+  "cover": "/uploads/1701949203432cua-hang-1hinh-nen-may-de-thuong-cho-may-tinh-111621779-05-14-48-10.jpg",
+  "featured_images": [],
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "e_wallet": {
+    "$numberDecimal": "5895946.12"
+  },
+  "point": 16,
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T11:39:47.754Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:30.221Z"
+  },
+  "slug": "cua-hang-1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65756245a6bb1188ebe69e2a"
+  },
+  "name": "Cửa hàng 2",
+  "bio": "Cửa hàng 2",
+  "ownerId": {
+    "$oid": "65756206a6bb1188ebe69ddb"
+  },
+  "staffIds": [],
+  "isActive": true,
+  "isOpen": true,
+  "avatar": "/uploads/1702191683610hinh-nen-may-de-thuong-cho-may-tinh-111621779-05-14-48-10.jpg",
+  "cover": "/uploads/1702191685250icon-256x256.png",
+  "featured_images": [],
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "e_wallet": {
+    "$numberDecimal": "0"
+  },
+  "point": 0,
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-10T07:01:25.394Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:01:25.394Z"
+  },
+  "slug": "cua-hang-2",
+  "__v": 0
+}]

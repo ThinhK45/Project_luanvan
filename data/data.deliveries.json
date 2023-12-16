@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "name": "Giao hàng nhanh",
+  "price": {
+    "$numberDecimal": "30000"
+  },
+  "description": "Giao hàng nhanh",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:38:43.388Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T12:11:51.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571aed0186f1792566a2a1e"
+  },
+  "name": "Giao hàng tiết kiệm",
+  "price": {
+    "$numberDecimal": "20000"
+  },
+  "description": "Giao hàng tiết kiệm",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:38:56.029Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:38:56.029Z"
+  },
+  "__v": 0
+}]

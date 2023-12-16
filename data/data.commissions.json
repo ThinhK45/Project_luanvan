@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "name": "Cửa hàng nhỏ và vừa",
+  "cost": {
+    "$numberDecimal": "5"
+  },
+  "description": "Cửa hàng nhỏ và vừa (5%/đơn)",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:38:29.077Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T12:10:46.798Z"
+  },
+  "__v": 0
+}]

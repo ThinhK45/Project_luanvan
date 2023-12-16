@@ -1,0 +1,920 @@
+[{
+  "_id": {
+    "$oid": "6571b0db186f1792566a2bc2"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "380000"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "17500"
+  },
+  "amountToStore": {
+    "$numberDecimal": "332500"
+  },
+  "amountToSG": {
+    "$numberDecimal": "47500"
+  },
+  "isPaidBefore": true,
+  "createdAt": {
+    "$date": "2023-12-07T11:47:39.400Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:36:34.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571ba1a186f1792566a2cbc"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "380000"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "17500"
+  },
+  "amountToStore": {
+    "$numberDecimal": "332500"
+  },
+  "amountToSG": {
+    "$numberDecimal": "47500"
+  },
+  "isPaidBefore": true,
+  "createdAt": {
+    "$date": "2023-12-07T12:27:06.334Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:37:50.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bb7d186f1792566a2f7b"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "390000"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "18000"
+  },
+  "amountToStore": {
+    "$numberDecimal": "342000"
+  },
+  "amountToSG": {
+    "$numberDecimal": "48000"
+  },
+  "isPaidBefore": true,
+  "createdAt": {
+    "$date": "2023-12-07T12:33:01.699Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:37:06.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bb9d186f1792566a3036"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "390000"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "18000"
+  },
+  "amountToStore": {
+    "$numberDecimal": "342000"
+  },
+  "amountToSG": {
+    "$numberDecimal": "48000"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-07T12:33:33.589Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:37:20.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bbe2186f1792566a3123"
+  },
+  "userId": {
+    "$oid": "6571ba53186f1792566a2d30"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 51, Xuân Khánh, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091888",
+  "amountFromUser": {
+    "$numberDecimal": "390000"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "18000"
+  },
+  "amountToStore": {
+    "$numberDecimal": "342000"
+  },
+  "amountToSG": {
+    "$numberDecimal": "48000"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-07T12:34:42.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:36:54.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573244dc70ce12cc253db5a"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "382200"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "10800"
+  },
+  "amountToStore": {
+    "$numberDecimal": "349200"
+  },
+  "amountToSG": {
+    "$numberDecimal": "33000"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-08T14:12:31.642Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-08T14:12:46.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573c606dd68df6dc655400b"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Hủy đơn",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "382200"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "10800"
+  },
+  "amountToStore": {
+    "$numberDecimal": "349200"
+  },
+  "amountToSG": {
+    "$numberDecimal": "33000"
+  },
+  "isPaidBefore": true,
+  "createdAt": {
+    "$date": "2023-12-09T01:42:30.721Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T01:45:19.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573c6dddd68df6dc655424d"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "382200"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "10800"
+  },
+  "amountToStore": {
+    "$numberDecimal": "349200"
+  },
+  "amountToSG": {
+    "$numberDecimal": "33000"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-09T01:46:05.527Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T01:56:06.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573f09bdd68df6dc655497d"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "441000"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "12600"
+  },
+  "amountToStore": {
+    "$numberDecimal": "407400"
+  },
+  "amountToSG": {
+    "$numberDecimal": "33600"
+  },
+  "isPaidBefore": true,
+  "createdAt": {
+    "$date": "2023-12-09T04:44:11.186Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T04:45:33.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573fdecdd68df6dc6554fa4"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "347900"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "9750"
+  },
+  "amountToStore": {
+    "$numberDecimal": "315250"
+  },
+  "amountToSG": {
+    "$numberDecimal": "32650"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-09T05:41:00.825Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T05:45:32.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65740129dd68df6dc655531b"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Hủy đơn",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "382200"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "10800"
+  },
+  "amountToStore": {
+    "$numberDecimal": "349200"
+  },
+  "amountToSG": {
+    "$numberDecimal": "33000"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-09T05:54:49.670Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T05:56:09.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657435f699bb0a9ebc6af9f9"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Hủy đơn",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "347900"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "9750"
+  },
+  "amountToStore": {
+    "$numberDecimal": "315250"
+  },
+  "amountToSG": {
+    "$numberDecimal": "32650"
+  },
+  "isPaidBefore": true,
+  "createdAt": {
+    "$date": "2023-12-09T09:40:06.363Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T09:41:36.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6574391b99bb0a9ebc6afd65"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "382200"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "10800"
+  },
+  "amountToStore": {
+    "$numberDecimal": "349200"
+  },
+  "amountToSG": {
+    "$numberDecimal": "33000"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-09T09:53:31.755Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T09:56:34.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65743a8199bb0a9ebc6b0036"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "372400"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "10500"
+  },
+  "amountToStore": {
+    "$numberDecimal": "339500"
+  },
+  "amountToSG": {
+    "$numberDecimal": "32900"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-09T09:59:29.783Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:00:41.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65743b0399bb0a9ebc6b0255"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Hủy đơn",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "445900"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "12750"
+  },
+  "amountToStore": {
+    "$numberDecimal": "412250"
+  },
+  "amountToSG": {
+    "$numberDecimal": "33650"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-09T10:01:39.622Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:01:55.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65743cb699bb0a9ebc6b0403"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "343000"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "9600"
+  },
+  "amountToStore": {
+    "$numberDecimal": "310400"
+  },
+  "amountToSG": {
+    "$numberDecimal": "32600"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-09T10:08:54.590Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:11:32.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657441c899bb0a9ebc6b0825"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Hủy đơn",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "347900"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "9750"
+  },
+  "amountToStore": {
+    "$numberDecimal": "315250"
+  },
+  "amountToSG": {
+    "$numberDecimal": "32650"
+  },
+  "isPaidBefore": true,
+  "createdAt": {
+    "$date": "2023-12-09T10:30:32.697Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:32:13.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6574467499bb0a9ebc6b0a31"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Hủy đơn",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "401798.04"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "11399.94"
+  },
+  "amountToStore": {
+    "$numberDecimal": "368598.06"
+  },
+  "amountToSG": {
+    "$numberDecimal": "33199.97999999998"
+  },
+  "isPaidBefore": true,
+  "createdAt": {
+    "$date": "2023-12-09T10:50:28.691Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:52:03.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6574474b99bb0a9ebc6b0be6"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "401798.04"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "11399.94"
+  },
+  "amountToStore": {
+    "$numberDecimal": "368598.06"
+  },
+  "amountToSG": {
+    "$numberDecimal": "33199.97999999998"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-09T10:54:03.673Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T10:54:47.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657464a1fcb8c4c2e8f8f720"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Hủy đơn",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "401798.04"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "11399.94"
+  },
+  "amountToStore": {
+    "$numberDecimal": "368598.06"
+  },
+  "amountToSG": {
+    "$numberDecimal": "33199.97999999998"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-09T12:59:13.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T13:02:48.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65750ed8a6bb1188ebe68170"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "735000"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "21600"
+  },
+  "amountToStore": {
+    "$numberDecimal": "698400"
+  },
+  "amountToSG": {
+    "$numberDecimal": "36600"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-10T01:05:28.366Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T01:07:16.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65752806a6bb1188ebe68f08"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aec3186f1792566a2a18"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "401798.04"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "11399.94"
+  },
+  "amountToStore": {
+    "$numberDecimal": "368598.06"
+  },
+  "amountToSG": {
+    "$numberDecimal": "33199.97999999998"
+  },
+  "isPaidBefore": false,
+  "createdAt": {
+    "$date": "2023-12-10T02:52:54.551Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T02:53:33.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65756375a6bb1188ebe6a090"
+  },
+  "userId": {
+    "$oid": "6571af77186f1792566a2b06"
+  },
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "deliveryId": {
+    "$oid": "6571aed0186f1792566a2a1e"
+  },
+  "commissionId": {
+    "$oid": "6571aeb5186f1792566a2a10"
+  },
+  "status": "Đã nhận hàng",
+  "address": "Hẻm 132, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam",
+  "phone": "0333091833",
+  "amountFromUser": {
+    "$numberDecimal": "372400"
+  },
+  "amountFromStore": {
+    "$numberDecimal": "10800"
+  },
+  "amountToStore": {
+    "$numberDecimal": "349200"
+  },
+  "amountToSG": {
+    "$numberDecimal": "23200"
+  },
+  "isPaidBefore": true,
+  "createdAt": {
+    "$date": "2023-12-10T07:06:29.752Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:08:05.596Z"
+  },
+  "__v": 0
+}]

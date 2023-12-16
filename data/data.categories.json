@@ -1,0 +1,245 @@
+[{
+  "_id": {
+    "$oid": "6571ae17186f1792566a29b4"
+  },
+  "name": "Giày thể thao",
+  "image": "/uploads/1701948951521hunter-nam.png",
+  "categoryId": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:35:51.669Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:35:51.669Z"
+  },
+  "slug": "giay-the-thao",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571ae2e186f1792566a29c4"
+  },
+  "name": "Nam",
+  "image": "/uploads/1701948973769hunter-nam.png",
+  "categoryId": {
+    "$oid": "6571ae17186f1792566a29b4"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:36:14.034Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:36:14.034Z"
+  },
+  "slug": "nam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571ae3a186f1792566a29d3"
+  },
+  "name": "Giày đi bộ",
+  "image": "/uploads/1701948985752hunter-nam.png",
+  "categoryId": {
+    "$oid": "6571ae2e186f1792566a29c4"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:36:26.266Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:36:26.266Z"
+  },
+  "slug": "giay-di-bo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571c96cfed315b3d7ba869f"
+  },
+  "name": "Giày chạy bộ",
+  "image": "/uploads/1701955947220giay-the-thao-nam.png",
+  "categoryId": {
+    "$oid": "6571ae2e186f1792566a29c4"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:32:28.405Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:32:28.405Z"
+  },
+  "slug": "giay-chay-bo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571c97afed315b3d7ba86a8"
+  },
+  "name": "Giày đá bóng",
+  "image": "/uploads/1701955961742giay-da-banh.png",
+  "categoryId": {
+    "$oid": "6571ae2e186f1792566a29c4"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:32:42.347Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:32:42.347Z"
+  },
+  "slug": "giay-da-bong",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571c98dfed315b3d7ba86b1"
+  },
+  "name": "Giày bóng rổ",
+  "image": "/uploads/1701955980598giay-da-banh.png",
+  "categoryId": {
+    "$oid": "6571ae2e186f1792566a29c4"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:33:01.301Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:33:01.301Z"
+  },
+  "slug": "giay-bong-ro",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571c9a3fed315b3d7ba86c2"
+  },
+  "name": "Nữ",
+  "image": "/uploads/1701956003331hunter-nu.png",
+  "categoryId": {
+    "$oid": "6571ae17186f1792566a29b4"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:33:23.791Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:33:23.791Z"
+  },
+  "slug": "nu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571c9b6fed315b3d7ba86d1"
+  },
+  "name": "Giày đi bộ",
+  "image": "/uploads/1701956021424hunter-nu.png",
+  "categoryId": {
+    "$oid": "6571c9a3fed315b3d7ba86c2"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:33:42.005Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:33:42.005Z"
+  },
+  "slug": "giay-di-bo-bD0W0W8geJ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571c9c8fed315b3d7ba86da"
+  },
+  "name": "Giày chạy bộ",
+  "image": "/uploads/1701956039915giay-the-thao-nu.png",
+  "categoryId": {
+    "$oid": "6571c9a3fed315b3d7ba86c2"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:34:00.606Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:34:00.606Z"
+  },
+  "slug": "giay-chay-bo-kApn4x0BML",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571c9defed315b3d7ba86e6"
+  },
+  "name": "Bé trai",
+  "image": "/uploads/1701956062384giay-the-thao-be-trai.png",
+  "categoryId": {
+    "$oid": "6571ae17186f1792566a29b4"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:34:22.728Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:34:22.728Z"
+  },
+  "slug": "be-trai",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571c9ebfed315b3d7ba86ee"
+  },
+  "name": "Bé gái",
+  "image": "/uploads/1701956074928giay-the-thao-be-gai.png",
+  "categoryId": {
+    "$oid": "6571ae17186f1792566a29b4"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:34:35.366Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:34:35.366Z"
+  },
+  "slug": "be-gai",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571ca04fed315b3d7ba86fd"
+  },
+  "name": "Giày đi bộ",
+  "image": "/uploads/1701956099714giay-the-thao-be-trai.png",
+  "categoryId": {
+    "$oid": "6571c9defed315b3d7ba86e6"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:35:00.320Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:35:00.320Z"
+  },
+  "slug": "giay-di-bo-oWBGVOpfYO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571ca10fed315b3d7ba8708"
+  },
+  "name": "Giày đi bộ",
+  "image": "/uploads/1701956111960giay-the-thao-be-trai.png",
+  "categoryId": {
+    "$oid": "6571c9ebfed315b3d7ba86ee"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:35:12.891Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:35:12.891Z"
+  },
+  "slug": "giay-di-bo-gbs-d7fQB",
+  "__v": 0
+}]

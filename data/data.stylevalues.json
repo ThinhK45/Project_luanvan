@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "6571af4d186f1792566a2abd"
+  },
+  "name": "Đen",
+  "styleId": {
+    "$oid": "6571ae4b186f1792566a29ea"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:41:01.636Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:41:01.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571af51186f1792566a2ac3"
+  },
+  "name": "Xám",
+  "styleId": {
+    "$oid": "6571ae4b186f1792566a29ea"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:41:05.149Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:41:05.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571af55186f1792566a2ac9"
+  },
+  "name": "37",
+  "styleId": {
+    "$oid": "6571ae6e186f1792566a29ef"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:41:09.832Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:41:09.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571af58186f1792566a2acf"
+  },
+  "name": "38",
+  "styleId": {
+    "$oid": "6571ae6e186f1792566a29ef"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:41:12.258Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:41:12.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571af5a186f1792566a2ad5"
+  },
+  "name": "39",
+  "styleId": {
+    "$oid": "6571ae6e186f1792566a29ef"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:41:14.605Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:41:14.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571af5d186f1792566a2adb"
+  },
+  "name": "40",
+  "styleId": {
+    "$oid": "6571ae6e186f1792566a29ef"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:41:17.153Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:41:17.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571baed186f1792566a2e88"
+  },
+  "name": "Xanh",
+  "styleId": {
+    "$oid": "6571ae4b186f1792566a29ea"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T12:30:37.145Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:30:37.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bb38186f1792566a2e9e"
+  },
+  "name": "Kem",
+  "styleId": {
+    "$oid": "6571ae4b186f1792566a29ea"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T12:31:52.156Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T12:31:52.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571cb45fed315b3d7ba8873"
+  },
+  "name": "Trắng",
+  "styleId": {
+    "$oid": "6571ae4b186f1792566a29ea"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:40:21.639Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:40:21.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571cb78fed315b3d7ba8881"
+  },
+  "name": "Cam",
+  "styleId": {
+    "$oid": "6571ae4b186f1792566a29ea"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:41:12.034Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:41:12.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571cbbbfed315b3d7ba888f"
+  },
+  "name": "Vàng",
+  "styleId": {
+    "$oid": "6571ae4b186f1792566a29ea"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:42:19.353Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:42:19.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571ceb18ed6c47986c2dc8c"
+  },
+  "name": "Hồng",
+  "styleId": {
+    "$oid": "6571ae4b186f1792566a29ea"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T13:54:57.348Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:54:57.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571d7198ed6c47986c2dee9"
+  },
+  "name": "26",
+  "styleId": {
+    "$oid": "6571ae6e186f1792566a29ef"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T14:30:49.525Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T14:30:49.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571d71c8ed6c47986c2deef"
+  },
+  "name": "27",
+  "styleId": {
+    "$oid": "6571ae6e186f1792566a29ef"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T14:30:52.053Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T14:30:52.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571d71f8ed6c47986c2def5"
+  },
+  "name": "28",
+  "styleId": {
+    "$oid": "6571ae6e186f1792566a29ef"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T14:30:55.307Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T14:30:55.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571d7228ed6c47986c2defb"
+  },
+  "name": "29",
+  "styleId": {
+    "$oid": "6571ae6e186f1792566a29ef"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T14:30:58.764Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T14:30:58.764Z"
+  },
+  "__v": 0
+}]

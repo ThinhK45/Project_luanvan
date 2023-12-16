@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "6571ae92186f1792566a2a02"
+  },
+  "name": "Bạc",
+  "minPoint": 2,
+  "discount": {
+    "$numberDecimal": "2"
+  },
+  "color": "grey",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:37:54.155Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:37:54.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571aea0186f1792566a2a08"
+  },
+  "name": "Mới tham gia",
+  "minPoint": 0,
+  "discount": {
+    "$numberDecimal": "0"
+  },
+  "color": "green",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T11:38:08.093Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T11:38:08.093Z"
+  },
+  "__v": 0
+}]

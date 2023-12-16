@@ -1,0 +1,1427 @@
+[{
+  "_id": {
+    "$oid": "6571baf6186f1792566a2e90"
+  },
+  "name": "Giày Thể Thao Nam HSM002900",
+  "description": "Giày Thể Thao Nam HSM002900",
+  "price": {
+    "$numberDecimal": "350000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "320000"
+  },
+  "quantity": 49,
+  "sold": 1,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701952244430cua-hang-1hsm002900xnh__2__a9627a7d564c49ffbfb00c5b8a4fd873_1024x1024.jpg",
+    "/uploads/1701952246119cua-hang-1hsm002900xnh__4__7c2da95a6f1946fdac01ae501f76e8ad_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571ae3a186f1792566a29d3"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af51186f1792566a2ac3"
+    },
+    {
+      "$oid": "6571baed186f1792566a2e88"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T12:30:46.389Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-nam-hsm002900",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bb15186f1792566a2e98"
+  },
+  "name": "Giày Thể Thao Nam Core HSM002400",
+  "description": "Giày Thể Thao Nam Core HSM002400",
+  "price": {
+    "$numberDecimal": "380000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "360000"
+  },
+  "quantity": 43,
+  "sold": 7,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701952277259cua-hang-1hsm002400xam__2__d383cc72e2024eca9110c701ee03133d_1024x1024.jpg",
+    "/uploads/1701952277377cua-hang-1hsm002400xam__6__6fed1810302e47a8bb8633d754e19eaf_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571ae3a186f1792566a29d3"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af51186f1792566a2ac3"
+    },
+    {
+      "$oid": "6571baed186f1792566a2e88"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T12:31:17.633Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-nam-core-hsm002400",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bb40186f1792566a2ea6"
+  },
+  "name": "Giày Thể Thao Nam X HSM003100",
+  "description": "Giày Thể Thao Nam X HSM003100",
+  "price": {
+    "$numberDecimal": "380000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "360000"
+  },
+  "quantity": 48,
+  "sold": 2,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701952318690cua-hang-1hsm003100kem__2__21277445091e44e2908bc220ea3f5590_large.jpg",
+    "/uploads/1701952318691cua-hang-1hsm003100kem__7__e62a2f8e0a11455ba36d1e79db2c46e8_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571ae3a186f1792566a29d3"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571bb38186f1792566a2e9e"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T12:32:00.778Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-nam-x-hsm003100",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571cb1ffed315b3d7ba886d"
+  },
+  "name": "Giày Thể Thao Cao Cấp Nam DSMH10201",
+  "description": "Giày Thể Thao Cao Cấp Nam DSMH10201",
+  "price": {
+    "$numberDecimal": "450000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "420000"
+  },
+  "quantity": 49,
+  "sold": 1,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701956381582cua-hang-1giay-the-thao-cao-cap-nam-dsmh10201xam-xam-sxaq6-color-xam_708001d7f67e487cb54d84ec66199603_large.jpg",
+    "/uploads/1701956381583cua-hang-1giay-the-thao-cao-cap-nam-dsmh10201xam-xam-6ce0f-color-xam_1fc063e9de274d12895bb8d445aa228d_1024x1024.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c96cfed315b3d7ba869f"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af51186f1792566a2ac3"
+    },
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T13:39:43.611Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-cao-cap-nam-dsmh10201",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571cb52fed315b3d7ba887b"
+  },
+  "name": "Giày Thể Thao Nam Biti's BSM000900",
+  "description": "Giày Thể Thao Nam Biti's BSM000900",
+  "price": {
+    "$numberDecimal": "400000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "379998"
+  },
+  "quantity": 49,
+  "sold": 1,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701956432817cua-hang-1bsm000900trg__2__e3dba88e5f0b457a882cc24e40a1519c_1024x1024.jpg",
+    "/uploads/1701956434500cua-hang-1bsm000900trg__4__1b773d3a2e164d3ca00c318dffbd6d01_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c96cfed315b3d7ba869f"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    },
+    {
+      "$oid": "6571cb45fed315b3d7ba8873"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T13:40:34.845Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-nam-biti-s-bsm000900",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571cb83fed315b3d7ba8889"
+  },
+  "name": "Giày Bóng Đá Nam Football DSMH02401",
+  "description": "Giày Bóng Đá Nam Football DSMH02401",
+  "price": {
+    "$numberDecimal": "400000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "379998"
+  },
+  "quantity": 49,
+  "sold": 1,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701956483199cua-hang-1ay-bong-da-nam-biti-s-hunter-football-dsmh02401cam-cam-ejpen-color-cam_e89ec7df79f343629246bea96129b6e8_1024x1024.jpg",
+    "/uploads/1701956483506cua-hang-1ay-bong-da-nam-biti-s-hunter-football-dsmh02401cam-cam-scl8f-color-cam_37f058ed9ee04fa9be6b05f9b435cf83_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c97afed315b3d7ba86a8"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571cb78fed315b3d7ba8881"
+    },
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T13:41:23.855Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-bong-da-nam-football-dsmh02401",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571cbcafed315b3d7ba889f"
+  },
+  "name": "Giày Bóng Đá Nam Football DSMH03800",
+  "description": "Giày Bóng Đá Nam Football DSMH03800",
+  "price": {
+    "$numberDecimal": "400000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "350000"
+  },
+  "quantity": 49,
+  "sold": 1,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701956553759cua-hang-1-bong-da-nam-biti-s-hunter-football-dsmh03800vag-vang-ugm22-color-vang_bc1be1d17d8640ff9d9297d6657b82c9_large.jpg",
+    "/uploads/1701956553760cua-hang-1-bong-da-nam-biti-s-hunter-football-dsmh03800vag-vang-vv8hv-color-vang_0ad5ee5483fc4d3d94cbde652dfc158a_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c97afed315b3d7ba86a8"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571cbbbfed315b3d7ba888f"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T13:42:34.108Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-bong-da-nam-football-dsmh03800",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571cc43fed315b3d7ba8926"
+  },
+  "name": "Giày bóng rổ Anta GH3 Small Cotton Padded Jacket",
+  "description": "Giày  bóng rổ Anta GH3 Small Cotton Padded Jacket",
+  "price": {
+    "$numberDecimal": "450000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "425000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701956673538cua-hang-15128_1677588983_2496_2_media_t2_.jpg",
+    "/uploads/1701956675354cua-hang-18272_1677588983_2496_4_media_t2_.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c98dfed315b3d7ba86b1"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571cb45fed315b3d7ba8873"
+    },
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T13:44:35.873Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "anta-gh3-small-cotton-padded-jacket",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571cebd8ed6c47986c2dc94"
+  },
+  "name": "Giày bóng rổ Anta A-Flash Bubble",
+  "description": "Giày bóng rổ Anta A-Flash Bubble",
+  "price": {
+    "$numberDecimal": "380000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "360000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701957307863cua-hang-1423_1670073960_2464_2_media_t2_.jpg",
+    "/uploads/1701957309480cua-hang-1993_1670073960.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c98dfed315b3d7ba86b1"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571ceb18ed6c47986c2dc8c"
+    },
+    {
+      "$oid": "6571cb45fed315b3d7ba8873"
+    },
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T13:55:09.815Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-bong-ro-anta-a-flash-bubble",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571d6ad8ed6c47986c2dec7"
+  },
+  "name": "Giày Thể Thao Nữ Core HSW002400",
+  "description": "Giày Thể Thao Nữ Core HSW002400",
+  "price": {
+    "$numberDecimal": "500000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "480000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701959340282cua-hang-1hsw002400hog__2__68b12cdc884843ca9e662ae763be9eca_1024x1024.jpg",
+    "/uploads/1701959340383cua-hang-1hsw002400hog__5__fbe3371caecf4883b303566ebe79a2d2_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c9b6fed315b3d7ba86d1"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571ceb18ed6c47986c2dc8c"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T14:29:01.389Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-nu-core-hsw002400",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571d6d88ed6c47986c2ded7"
+  },
+  "name": "Giày Thể Thao Nữ DSW066200",
+  "description": "Giày Thể Thao Nữ DSW066200",
+  "price": {
+    "$numberDecimal": "500000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "480000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701959383556cua-hang-1giay-the-thao-nu-biti-s-dsw066200-kx9xx-color-trang_2995d5b13e6d4261a28110b2ba14bcc6_large.jpg",
+    "/uploads/1701959383887cua-hang-1giay-the-thao-nu-biti-s-dsw066200-bk0da-color-trang_3a2e8791f8b644819ee54c314923ba30_1024x1024.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c9c8fed315b3d7ba86da"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571ceb18ed6c47986c2dc8c"
+    },
+    {
+      "$oid": "6571cb45fed315b3d7ba8873"
+    },
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T14:29:44.231Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-nu-dsw066200",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571d72b8ed6c47986c2df03"
+  },
+  "name": "Giày Thể Thao Bé Trai BSB002700",
+  "description": "Giày Thể Thao Bé Trai BSB002700",
+  "price": {
+    "$numberDecimal": "500000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "480000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701959465013cua-hang-1bsb002700doo__2__b5d20b9e1ad64bd5be07154b723e2c40_1024x1024.jpg",
+    "/uploads/1701959466605cua-hang-1bsb002700doo__4__3585979c29604678b345e9851f2e26b3_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571ca04fed315b3d7ba86fd"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af51186f1792566a2ac3"
+    },
+    {
+      "$oid": "6571baed186f1792566a2e88"
+    },
+    {
+      "$oid": "6571d7198ed6c47986c2dee9"
+    },
+    {
+      "$oid": "6571d71c8ed6c47986c2deef"
+    },
+    {
+      "$oid": "6571d71f8ed6c47986c2def5"
+    },
+    {
+      "$oid": "6571d7228ed6c47986c2defb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T14:31:07.085Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-be-trai-bsb002700",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571d75f8ed6c47986c2df17"
+  },
+  "name": "Giày Thể Thao Bé Gái Disney BSG000697",
+  "description": "Giày Thể Thao Bé Gái Disney BSG000697",
+  "price": {
+    "$numberDecimal": "400000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "380000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701959519432cua-hang-1bsg000697hog__2__68ea0b44883c434da611776bf04e7c3f_1024x1024.jpg",
+    "/uploads/1701959519433cua-hang-1bsg000697hog__10__9aa124fe6d964dfb95e942f0f43fe90b.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571ca10fed315b3d7ba8708"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571ceb18ed6c47986c2dc8c"
+    },
+    {
+      "$oid": "6571cb45fed315b3d7ba8873"
+    },
+    {
+      "$oid": "6571d7198ed6c47986c2dee9"
+    },
+    {
+      "$oid": "6571d71c8ed6c47986c2deef"
+    },
+    {
+      "$oid": "6571d71f8ed6c47986c2def5"
+    },
+    {
+      "$oid": "6571d7228ed6c47986c2defb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T14:31:59.762Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-be-gai-disney-bsg000697",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571e0c4a0015b9d2ebee13e"
+  },
+  "name": "Giày Thể Thao Nam Hunter Street đế #BÀO DSMH11000",
+  "description": "Giày Thể Thao Nam Hunter Street đế #BÀO DSMH11000",
+  "price": {
+    "$numberDecimal": "385000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "350000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701961922907cua-hang-1dsmh11000cam__4__275b5191d80b442e92b8c13bf74ed877_large.jpg",
+    "/uploads/1701961924671cua-hang-1dsmh11000cam__6__f04d518113914605abe071365bd358ea_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571ae3a186f1792566a29d3"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571cb78fed315b3d7ba8881"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T15:12:04.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-nam-hunter-street-de-bao-dsmh11000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571e0faa0015b9d2ebee14e"
+  },
+  "name": "Giày Thể Thao Nam DSM075033",
+  "description": "Giày Thể Thao Nam DSM075033",
+  "price": {
+    "$numberDecimal": "385000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "350000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701961976162cua-hang-1giay-the-thao-nam-dsm075033trg-trang-qravf-color-trang_fab8ced5f2244c4ba45cccae4de47891_large.jpg",
+    "/uploads/1701961976163cua-hang-1giay-the-thao-nam-dsm075033trg-trang-crox8-color-trang_909ff028dd744b608f680c193923e3d9_1024x1024.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c96cfed315b3d7ba869f"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571cbbbfed315b3d7ba888f"
+    },
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af51186f1792566a2ac3"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T15:12:58.159Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-nam-dsm075033",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571e111a0015b9d2ebee156"
+  },
+  "name": "Giày Thể Thao Thông Dụng Nam Basic BSM000600",
+  "description": "Giày Thể Thao Thông Dụng Nam Basic BSM000600",
+  "price": {
+    "$numberDecimal": "385000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "350000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701962001163cua-hang-1bsm000600trg__4__94266f8069ff4ac49686105f0b2bdd2c_large.jpg",
+    "/uploads/1701962001289cua-hang-1bsm000600trg__2__dc7ce618c3f14f9283a11fbff9e3b56a_1024x1024.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c96cfed315b3d7ba869f"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571cbbbfed315b3d7ba888f"
+    },
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af51186f1792566a2ac3"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T15:13:21.627Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-thong-dung-nam-basic-bsm000600",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571e136a0015b9d2ebee15e"
+  },
+  "name": "Giày Thể Thao Thông Dụng Nam BSM000700",
+  "description": "Giày Thể Thao Thông Dụng Nam BSM000700",
+  "price": {
+    "$numberDecimal": "385000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "325000"
+  },
+  "quantity": 49,
+  "sold": 1,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701962037384cua-hang-1bsm000700den__2__458e2c4ec9854a638958a2261c6d3571_1024x1024.jpg",
+    "/uploads/1701962037708cua-hang-1bsm000700den__5__849b9ebb99144833a3a9e30ea2acbc56_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c96cfed315b3d7ba869f"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af51186f1792566a2ac3"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571cb45fed315b3d7ba8873"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T15:13:58.029Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-thong-dung-nam-bsm000700",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571e169a0015b9d2ebee174"
+  },
+  "name": "Giày Bóng Đá Nam Biti's Hunter Football Futsal DSMH11100",
+  "description": "Giày Bóng Đá Nam Biti's Hunter Football Futsal DSMH11100",
+  "price": {
+    "$numberDecimal": "385000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "325000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701962087458cua-hang-1giay-bong-da-nam-hunter-football-futsal-dsmh11100doo-do-3rd0k-color-do_58fe3ad6faf34ecb9a4ce7df26c59b07_1024x1024.jpg",
+    "/uploads/1701962089114cua-hang-1giay-bong-da-nam-hunter-football-futsal-dsmh11100doo-do-4max6-color-do_674871fb05bf4542b60b2cf17b26081a_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c97afed315b3d7ba86a8"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T15:14:49.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-bong-da-nam-biti-s-hunter-football-futsal-dsmh11100",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571e183a0015b9d2ebee17c"
+  },
+  "name": "Giày Bóng Đá Nam Football Gen 2K21 Futsal DSMH07300",
+  "description": "Giày Bóng Đá Nam Football Gen 2K21 Futsal DSMH07300",
+  "price": {
+    "$numberDecimal": "385000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "325000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701962115460cua-hang-1ootball-gen-2k21-futsal-dsmh07300xmn-xanh-mi-no-8ib2g-color-xanh-mi-no_207537184ae746338937a4bd5ddc7b89_1024x1024.jpg",
+    "/uploads/1701962115561cua-hang-1ootball-gen-2k21-futsal-dsmh07300xmn-xanh-mi-no-p0a70-color-xanh-mi-no_97adf343c8404af784a9d3e850137f80_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c97afed315b3d7ba86a8"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T15:15:15.868Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-bong-da-nam-football-gen-2k21-futsal-dsmh07300",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571e1a0a0015b9d2ebee184"
+  },
+  "name": "Giày Đá Bóng Nam Football HSM003600",
+  "description": "Giày Đá Bóng Nam Football HSM003600",
+  "price": {
+    "$numberDecimal": "385000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "325000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701962143405cua-hang-1hsm003600cam__2__ebba4c44b4b64642ae2694d0de986b86_1024x1024.jpg",
+    "/uploads/1701962143407cua-hang-1hsm003600cam__7__16c9cb8719ff432e991c305289ac8d19_large.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c97afed315b3d7ba86a8"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    },
+    {
+      "$oid": "6571cb78fed315b3d7ba8881"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T15:15:44.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-da-bong-nam-football-hsm003600",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571e1e0a0015b9d2ebee194"
+  },
+  "name": "Giày bóng rổ Anta KT Splash 3 Salted Lemon 7 Up",
+  "description": "Giày Đá Bóng Nam Football HSM003600",
+  "price": {
+    "$numberDecimal": "385000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "359999"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701962206397cua-hang-17642_1665735457.jpg",
+    "/uploads/1701962208088cua-hang-17642_1665735457.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c98dfed315b3d7ba86b1"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571cb45fed315b3d7ba8873"
+    },
+    {
+      "$oid": "6571af51186f1792566a2ac3"
+    },
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T15:16:48.419Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-bong-ro-anta-kt-splash-3-salted-lemon-7-up",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571e1f3a0015b9d2ebee19c"
+  },
+  "name": "Giày bóng rổ Anta KT Splash 5",
+  "description": "Giày bóng rổ Anta KT Splash 5",
+  "price": {
+    "$numberDecimal": "385000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "360000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701962227363cua-hang-17642_1665735457.jpg",
+    "/uploads/1701962227364cua-hang-17642_1665735457.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c98dfed315b3d7ba86b1"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571cb45fed315b3d7ba8873"
+    },
+    {
+      "$oid": "6571af51186f1792566a2ac3"
+    },
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571cb78fed315b3d7ba8881"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T15:17:07.763Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-bong-ro-anta-kt-splash-5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571e214a0015b9d2ebee1aa"
+  },
+  "name": "Giày bóng rổ Anta Skyline 1 Lantern Festival",
+  "description": "Giày bóng rổ Anta KT Splash 5",
+  "price": {
+    "$numberDecimal": "385000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "360000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701962260191cua-hang-11975_1676547001.jpg",
+    "/uploads/1701962260195cua-hang-13022_1676547001.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571c98dfed315b3d7ba86b1"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571cb45fed315b3d7ba8873"
+    },
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571cb78fed315b3d7ba8881"
+    },
+    {
+      "$oid": "6571e20ba0015b9d2ebee1a2"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T15:17:40.492Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-bong-ro-anta-skyline-1-lantern-festival",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571af65186f1792566a2ae3"
+  },
+  "name": "Giày Thể Thao Cao Cấp Men Street đế #BÀO x VietMax BEATER - Humble Edition HSM002100",
+  "description": "Giày Thể Thao Cao Cấp Men Street đế #BÀO x VietMax BEATER - Humble Edition HSM002100",
+  "price": {
+    "$numberDecimal": "400000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "350000"
+  },
+  "quantity": 0,
+  "sold": 2,
+  "isActive": false,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1701949283226cua-hang-1hinh_1__2__b46693e06eb448f7b89e72fe76540fcb_1024x1024.png",
+    "/uploads/1701949284920cua-hang-1z4703770946058_6a961cc309a854194a287ac00ff4a7cb__1__7dbe830437d64f02bee30788e926.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571ae3a186f1792566a29d3"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af51186f1792566a2ac3"
+    },
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    },
+    {
+      "$oid": "6571cb45fed315b3d7ba8873"
+    }
+  ],
+  "storeId": {
+    "$oid": "6571af03186f1792566a2a65"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-07T11:41:25.323Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:12:31.180Z"
+  },
+  "slug": "giay-the-thao-cao-cap-men-street-de-bao-x-vietmax-beater-humble-edition-hsm002100",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657562d0a6bb1188ebe69e68"
+  },
+  "name": "Giày Thể Thao Cao Cấp Men Biti's Hunter Street đế #BÀO x VietMax BEATER - Humble Edition HSM002100",
+  "description": "Giày Thể Thao Cao Cấp Men Biti's Hunter Street đế #BÀO x VietMax BEATER - Humble Edition HSM002100",
+  "price": {
+    "$numberDecimal": "450000"
+  },
+  "promotionalPrice": {
+    "$numberDecimal": "420000"
+  },
+  "quantity": 50,
+  "sold": 0,
+  "isActive": true,
+  "isSelling": true,
+  "listImages": [
+    "/uploads/1702191822219cua-hang-2hinh_1__2__b46693e06eb448f7b89e72fe76540fcb_1024x1024.png",
+    "/uploads/1702191823865cua-hang-2z4703770946058_6a961cc309a854194a287ac00ff4a7cb__1__7dbe830437d64f02bee30788e926.jpg"
+  ],
+  "categoryId": {
+    "$oid": "6571ae3a186f1792566a29d3"
+  },
+  "styleValueIds": [
+    {
+      "$oid": "6571af4d186f1792566a2abd"
+    },
+    {
+      "$oid": "6571af51186f1792566a2ac3"
+    },
+    {
+      "$oid": "6571af55186f1792566a2ac9"
+    },
+    {
+      "$oid": "6571af58186f1792566a2acf"
+    },
+    {
+      "$oid": "6571af5a186f1792566a2ad5"
+    },
+    {
+      "$oid": "6571af5d186f1792566a2adb"
+    }
+  ],
+  "storeId": {
+    "$oid": "65756245a6bb1188ebe69e2a"
+  },
+  "rating": 0,
+  "createdAt": {
+    "$date": "2023-12-10T07:03:44.205Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T07:03:44.205Z"
+  },
+  "slug": "giay-the-thao-cao-cap-men-biti-s-hunter-street-de-bao-x-vietmax-beater-humble-edition-hsm002100",
+  "__v": 0
+}]
